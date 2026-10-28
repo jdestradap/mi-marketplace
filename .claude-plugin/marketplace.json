@@ -1,0 +1,14 @@
+{
+  "name": "mi-marketplace",
+  "description": "Skills de razonamiento y validación lógica",
+  "owner": {
+    "name": "Juan David Estrada"
+  },
+  "plugins": [
+    {
+      "name": "validacion-logica",
+      "source": "./plugins/validacion-logica",
+      "description": "Validación lógico-formal de textos con bases del derecho: trazabilidad, validez, sin redundancia"
+    }
+  ]
+}

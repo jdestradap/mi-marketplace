@@ -1,0 +1,10 @@
+{
+  "name": "validacion-logica",
+  "description": "Validación lógico-formal de textos con bases del derecho: trazabilidad de cada afirmación, validez, sin redundancia.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Juan David Estrada"
+  },
+  "keywords": ["logica", "validacion", "derecho", "argumentacion", "anti-alucinacion"]
+}
